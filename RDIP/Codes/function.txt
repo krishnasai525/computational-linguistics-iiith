@@ -1,0 +1,6 @@
+
+the functionalities are to be:
+1.if we click the experiment then we will be showing a select dropdown list
+2.In that dropdown list we have 2 options namely languages like english and hindi
+3.after clicking all buttons we have two buttons to check check the correctness and reform sentence
+4.correctness sentence have 2 outputs namely Wrong or Right answer.
