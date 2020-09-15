@@ -3,7 +3,19 @@
 <head>
 </head>
 <body>
+	<label for="l">language selction:</label>
+	<select name="l" id="l" onchange="f1()">
+		<option value="-options-">-options-</option>
+		<option value="english">english</option>
+		<option value="hindi">hindi</option>
+	</select>
+<p id="printable"></p>
 <script>
+var selection=document.getElementById("l");
+function f1()
+{
+		document.getElementById("printable").innerHTML="<strong>Form sentences (Declarative or Interrogative or any other type) from the given words</strong>(select the buttons in proper order)";
+}
 var e=[["John ate an apple before afternoon"],
 ["some students like to study in the night"],
 ["John and Mary went to church"],
