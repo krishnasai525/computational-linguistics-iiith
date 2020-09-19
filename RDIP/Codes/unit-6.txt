@@ -1,0 +1,7 @@
+functionalities in unit-6
+1.The experiment uses the concept of dynamic table
+2.we have the selection of language and sentence dropdown lists
+3.there we have the again selction parts of speech 
+4.after completion submit the answers then we get the report 
+5.on clicking the show answers button to can check the correct answers
+6.this is overall funbctionlity
